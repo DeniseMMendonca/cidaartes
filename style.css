@@ -188,13 +188,12 @@ img {
   margin-left: auto;
   padding: 25px 25px;
 }
-
-footer {
-  justify-content: space-between;
-  background-color: white;
-  padding: 0px 42%;
-}
-
+footer {  
+    
+    justify-content: space-between;
+    background-color: white;
+    padding: 0px 42%;
+  }
 h5 {
   text-align: center;
   font-size: 2rem;
