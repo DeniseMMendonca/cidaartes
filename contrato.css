@@ -76,3 +76,10 @@ body{
     font-size: 1rem;
     text-align: center;
   }
+
+.button {
+    background-color: blue;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+ }
