@@ -190,7 +190,7 @@ img {
 }
 
 footer {
-  display: flex;
+  
   justify-content: space-between;
   background-color: white;
   padding: 1% 5%;
